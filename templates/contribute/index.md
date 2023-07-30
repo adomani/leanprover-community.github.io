@@ -25,9 +25,9 @@ to make the process of contributing as smooth as possible.
 * Use [Zulip](https://leanprover.zulipchat.com/) to
    discuss your contribution before and while you are working on it.
 * Adhere to the guidelines:
-   - The [style guide](style.html) for contributors.
-   - The explanation of [naming conventions](naming.html).
-   - The [documentation guidelines](doc.html).
+   - The [style.html](https://github.com/leanprover-community/leanprover-community.github.io/blob/lean4/templates/contribute/style.md) for contributors.
+   - The explanation of [naming conventions](https://github.com/leanprover-community/leanprover-community.github.io/blob/lean4/templates/contribute/naming.md).
+   - The [documentation guidelines](https://github.com/leanprover-community/leanprover-community.github.io/blob/lean4/templates/contribute/doc.md).
 
 Once you have code that you'd like to contribute, you should open a PR.
 There is a [video tutorial](https://www.youtube.com/watch?v=Bnc8w9lxe8A) walking you through the process of making a PR on YouTube.
